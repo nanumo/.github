@@ -6,4 +6,4 @@ Sound interesting?
 Want to work with a great team on a great stack (TS/React/Kotlin/Ktor/AWS/Postgres)? 
 Based in GMT+-3? 
 
-[We want to hear from you](mailto:hello@nanumo.com) 🔥
+If so, [we want to hear from you](mailto:hello@nanumo.com) 🔥
